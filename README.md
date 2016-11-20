@@ -5,14 +5,18 @@ Doc and Koala tracking project from RBE549 Computer Vision during the fall 2015 
 
 The main program is the findDolls.py file. This requires tuning files that are specified below. NOTE: These values are heavily dependant upon lighting conditions and may need to be re-tuned).
 
+
+
 ============================= Tuning Files =============================
 
 whiteThresholdSettings.txt
-  blackThresholdSettings.txt
-  hsvBeltSettings.txt
-  hsvJacketSettings.txt
-  noseHThresholdSettings.txt
-  noseLThresholdSettings.txt
+blackThresholdSettings.txt
+hsvBeltSettings.txt
+hsvJacketSettings.txt
+noseHThresholdSettings.txt
+noseLThresholdSettings.txt
+
+
 
 ========================= Re-tuning Procedure =========================
 
