@@ -15,8 +15,9 @@ whiteThresholdSettings.txt
   noseLThresholdSettings.txt
 
 ========================= Re-tuning Procedure =========================
-  Run the koalaThresholdTuner.py file with a webcam equipped computer. Use this to tune the koala nose threshold values for the current light condition. Slide the save slider to the right when acceptable values have been determined.
 
-  Run the hsvBeltSettings.py file with a webcam equipped computer. Use this to tune the hsv threshold values for Doc's belt. Slide the save slider to the right when acceptable values have been determined.
+Run the koalaThresholdTuner.py file with a webcam equipped computer. Use this to tune the koala nose threshold values for the current light condition. Slide the save slider to the right when acceptable values have been determined.
 
-  Run the hsvJacketSettings.py file with a webcam equipped computer. Use this to tune the hsv threshold values for Doc's Jacket. Slide the save slider to the right when acceptable values have been determined.
+Run the hsvBeltSettings.py file with a webcam equipped computer. Use this to tune the hsv threshold values for Doc's belt. Slide the save slider to the right when acceptable values have been determined.
+
+Run the hsvJacketSettings.py file with a webcam equipped computer. Use this to tune the hsv threshold values for Doc's Jacket. Slide the save slider to the right when acceptable values have been determined.
